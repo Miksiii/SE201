@@ -1,0 +1,11 @@
+Flickr belgrade image search:
+
+http://api.flickr.com/services/rest?method=flickr.photos.search&api_key=2ea7738799cbe3f96527521b246dc883&text=belgrade&license=7&format=json
+
+Wikipedia Image search which start with Belgrade:
+
+https://en.wikipedia.org/w/api.php?action=query&list=allimages&ailimit=5&aifrom=Belgrade&aiprop=url
+
+Google image search for Belgrade:
+
+https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=belgrade
