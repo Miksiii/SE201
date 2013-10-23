@@ -1,0 +1,1 @@
+Napravite hijearhiju priča na osnovu scenarija u fajlu HOUSE. Dodelite pričama poene na osnovu njihove obimnosti.
