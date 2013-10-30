@@ -1,0 +1,5 @@
+Prilazi vam klijent, biznismen iz susedne države, sa idejom da napravite sajt za igranje online igara sa pravim novcem kao ulogom. Dva igrača bi igrala karte ili neke druge multiplayer igrice i pobednik bi uzimao novac od gubitnika. Nudi da vas pozamašno plati u kešu.
+
+Koje funkcionalne zahteve sajt mora da ispuni?
+
+Na koje nefunkcionalne zahteve morate obratiti pažnju? Na koje zahteve treba skrenuti klijentu pažnju.
