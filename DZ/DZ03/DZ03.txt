@@ -1,0 +1,3 @@
+Definišite koristeći template use caseove u HOUSE primeru, ili u sistemu fakulteta koji ste opisiavli u prvom domaćem.
+
+Takodje ih nacrtajtekoristeći UML dijagram.
