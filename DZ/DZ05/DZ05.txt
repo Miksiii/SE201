@@ -1,0 +1,5 @@
+Nacrtajte sequencijalni UML dijagram jedne video igrice.
+
+Mogući akteri:
+
+Igrač, Game Aplikacija, Game Svet, Game objekat, Game ai.
