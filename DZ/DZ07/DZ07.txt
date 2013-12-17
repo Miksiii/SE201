@@ -1,0 +1,1 @@
+Modelirajte 3 design patterna klasnim dijagramima. Napravite 1 ili više objektnih dijagrama koji pokazuju korišćenje klasa kreiranih u prvom delu domaćeg.
