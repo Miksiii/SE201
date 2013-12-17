@@ -1,0 +1,1 @@
+Napravite klasni UML dijagram nekog CRUD sistema. Koristite deo fakultetskog sistema ili House scenario.
